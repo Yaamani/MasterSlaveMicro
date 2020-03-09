@@ -1,0 +1,4 @@
+rootProject.name='Master-Slave-Micro'
+include ':Master', ':Slave', ':opencv'
+include ':opencv'
+project(':opencv').projectDir = new File('/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk')

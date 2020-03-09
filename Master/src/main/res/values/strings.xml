@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Master</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="object_classifier">Object Classifier</string>
+    <string name="title_activity_main">Master</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_remote_control">Remote Control</string>
+    <string name="title_object_classifier">Object Classifier</string>
+</resources>
